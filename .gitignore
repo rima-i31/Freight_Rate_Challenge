@@ -10,4 +10,5 @@ catboost_info/
 assestment.txt
 01_eda_and_modeling.ipynb
 outputs/
+models/
 
